@@ -1,0 +1,2 @@
+My name is Mukund Jha, and I have graduated in Computer Science & Engineering (CSE). Despite having zero knowledge in coding, I have decided to start my journey toward becoming a successful developer. Through this 100 Days of DSA challenge, I aim to strengthen my problem-solving skills and master essential concepts in Java & DSA. Consistency and dedication will be my key drivers in achieving this goal.
+
