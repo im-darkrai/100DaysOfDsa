@@ -33,4 +33,4 @@ int main() {
     // call your pattern functions here.
     pattern2(n);
     return 0;
-}
+} 
